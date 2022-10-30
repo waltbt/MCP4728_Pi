@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
 # MCP4728 12-bit Four Channel DAC
 The MCP4728 is a 12-bit, four channel Digital-to-Analog (DAC) converter.  It runs on I2C and can be reprogramed with 8 different addresses.  It has an accurate internal reference voltage and programable gain.  
 
